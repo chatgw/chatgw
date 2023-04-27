@@ -1,0 +1,1 @@
+import{_ as o,M as n,p as l,q as r,N as e,S as _}from"./framework-03ad3a91.js";const i={};function s(a,p){const t=n("PricingIndex"),c=n("ClientOnly");return l(),r("div",null,[e(c,null,{default:_(()=>[e(t)]),_:1})])}const d=o(i,[["render",s],["__file","pricing.html.vue"]]);export{d as default};

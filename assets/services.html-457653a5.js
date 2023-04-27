@@ -1,0 +1,1 @@
+import{_ as o,M as e,p as s,q as l,N as n,S as r}from"./framework-03ad3a91.js";const _={};function a(i,m){const t=e("ServiceIndex"),c=e("ClientOnly");return s(),l("div",null,[n(c,null,{default:r(()=>[n(t)]),_:1})])}const f=o(_,[["render",a],["__file","services.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as c,M as e,p as l,q as r,N as t,S as s}from"./framework-03ad3a91.js";const _={};function a(d,u){const n=e("ProductIndex"),o=e("ClientOnly");return l(),r("div",null,[t(o,null,{default:s(()=>[t(n)]),_:1})])}const m=c(_,[["render",a],["__file","products.html.vue"]]);export{m as default};

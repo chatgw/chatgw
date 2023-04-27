@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,Y as e,t as r}from"./framework-03ad3a91.js";const s={},o=e("h1",{id:"快速开始",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#快速开始","aria-hidden":"true"},"#"),r(" 快速开始")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","guide.html.vue"]]);export{l as default};
